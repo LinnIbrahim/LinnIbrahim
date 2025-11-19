@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Miguel</h1>
+<h1 align="center">Hi 👋, I'm Lin</h1>
 <h3 align="center">A passionate Project Engineer from Lebanon</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miguelibrahime" alt="miguelibrahime" /></a> </p>
 
-- Currently working and Biggest Preject is [Echo](https://github.com/Randish-soft/Echo)
+- Currently working and Biggest Preject is [Echo](https://github.com/Randish-soft/Echo) & TrainPlotter (I love Trains)
 
-- I'm looking into learning and mastering **React, .NET**
+- I'm looking into learning and mastering **React, .NET (Important)**
 
 - All of my project previews are available at [lin-ibrahim.netlify.app](lin-ibrahim.netlify.app)
 
